@@ -2,7 +2,7 @@
 
 This project makes uses of:
 
-- [Phaser](https://phaser.io/]
+- [Phaser](https://phaser.io/)
 
 ## 👻 Live Site URL & Status 👺
 
